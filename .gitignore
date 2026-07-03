@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Playwright reports
+playwright-report/
+**/playwright-report/
+
+test-results/
+**/test-results/
+
+# Environment files
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Playwright cache
+.playwright/
+.playwright-cli/
